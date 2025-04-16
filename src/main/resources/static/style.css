@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%);
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', 'Malgun Gothic', Arial, sans-serif;
+}
+
+.container {
+    max-width: 500px;
+    margin: 120px auto;
+    background: rgba(255,255,255,0.88);
+    border-radius: 18px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+    padding: 48px 36px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.6rem;
+    color: #333;
+    margin-bottom: 18px;
+}
+
+.highlight {
+    color: #4f8cff;
+    font-weight: bold;
+}
+
+p {
+    color: #666;
+    font-size: 1.1rem;
+}
